@@ -30,7 +30,7 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 - [HsiangHsu/inference-time-knowledge-steering](https://github.com/HsiangHsu/inference-time-knowledge-steering) — Inference-time alignment and knowledge steering via reward-tail-aware selection, SAE control, and future memory-unit representations. `1 day ago`
 - [HsiangHsu/knowledge-removal](https://github.com/HsiangHsu/knowledge-removal) — Machine unlearning and residual-knowledge auditing across classifiers, generative models, tree ensembles, and RL systems. `1 day ago`
 
-### 🚀 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 
 
 ### 🔨 Recent pull requests
@@ -39,7 +39,7 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 - [I2i](https://github.com/GaParmar/clean-fid/pull/59) on [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) `2 years ago`
 - [Create LICENSE.md](https://github.com/HsiangHsu/Fair-Projection/pull/1) on [HsiangHsu/Fair-Projection](https://github.com/HsiangHsu/Fair-Projection) `3 years ago`
 
-### ⭐ Recent stars
+### ⭐ Recent Stars
 
 
 ---
