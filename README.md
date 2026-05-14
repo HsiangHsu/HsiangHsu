@@ -1,4 +1,4 @@
-# Hi, I'm Hsiang 👋
+# Hi, I'm Shawn 👋
 
 I'm an AI/ML researcher working on **trustworthy, controllable, and useful language models** — especially where model behavior becomes fragile, surprising, or hard to evaluate. My recent work focuses on machine unlearning, model safety, inference-time alignment, reward-model failure modes, and interpretability-inspired tools for understanding what models know and use during inference.
 
@@ -35,9 +35,6 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 - [I2i](https://github.com/jpmorganchase/i2i_clean-fid/pull/1) on [jpmorganchase/i2i_clean-fid](https://github.com/jpmorganchase/i2i_clean-fid) `2 years ago`
 - [I2i](https://github.com/GaParmar/clean-fid/pull/59) on [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) `2 years ago`
 - [Create LICENSE.md](https://github.com/HsiangHsu/Fair-Projection/pull/1) on [HsiangHsu/Fair-Projection](https://github.com/HsiangHsu/Fair-Projection) `3 years ago`
-
-### ⭐ Recent Stars
-
 
 ---
 
