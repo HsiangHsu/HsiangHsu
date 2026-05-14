@@ -1,4 +1,4 @@
-# Hi, I'm Hsiang 👋
+# Hi, I'm Shawn 👋
 
 I'm an AI/ML researcher working on **trustworthy, controllable, and useful language models** — especially where model behavior becomes fragile, surprising, or hard to evaluate. My recent work focuses on machine unlearning, model safety, inference-time alignment, reward-model failure modes, and interpretability-inspired tools for understanding what models know and use during inference.
 
@@ -32,11 +32,6 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 ### 🔨 Recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) `{{humanize .CreatedAt}}`
-{{- end}}
-
-### ⭐ Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 ---
