@@ -30,7 +30,7 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 - [HsiangHsu/inference-time-knowledge-steering](https://github.com/HsiangHsu/inference-time-knowledge-steering) — Inference-time alignment and knowledge steering via reward-tail-aware selection, SAE control, and future memory-unit representations. `1 day ago`
 - [HsiangHsu/knowledge-removal](https://github.com/HsiangHsu/knowledge-removal) — Machine unlearning and residual-knowledge auditing across classifiers, generative models, tree ensembles, and RL systems. `1 day ago`
 
-### 🔭 Latest releases I've contributed to
+### 🚀 Latest releases I've contributed to
 
 
 ### 🔨 Recent pull requests
