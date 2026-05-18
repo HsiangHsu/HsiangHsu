@@ -26,9 +26,9 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 
 ### 👷 Currently working on
 
+- [HsiangHsu/knowledge-removal](https://github.com/HsiangHsu/knowledge-removal) — Machine unlearning and residual-knowledge auditing across classifiers, generative models, tree ensembles, and RL systems. `today`
 - [HsiangHsu/knowledge-uncertainty](https://github.com/HsiangHsu/knowledge-uncertainty) — Rashomon-effect research on predictive multiplicity, arbitrary decisions, and hidden disagreement across models and circuits. `5 days ago`
 - [HsiangHsu/inference-time-knowledge-steering](https://github.com/HsiangHsu/inference-time-knowledge-steering) — Inference-time alignment and knowledge steering via reward-tail-aware selection, SAE control, and future memory-unit representations. `5 days ago`
-- [HsiangHsu/knowledge-removal](https://github.com/HsiangHsu/knowledge-removal) — Machine unlearning and residual-knowledge auditing across classifiers, generative models, tree ensembles, and RL systems. `5 days ago`
 
 ### 🔨 Recent pull requests
 
