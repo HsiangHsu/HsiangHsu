@@ -26,7 +26,7 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 
 ### 👷 Currently working on
 
-- [HsiangHsu/inference-time-knowledge-steering](https://github.com/HsiangHsu/inference-time-knowledge-steering) — Inference-time alignment and knowledge steering via reward-tail-aware selection, SAE control, and future memory-unit representations. `6 days ago`
+- [HsiangHsu/inference-time-knowledge-steering](https://github.com/HsiangHsu/inference-time-knowledge-steering) — Inference-time alignment and knowledge steering via reward-tail-aware selection, SAE control, and future memory-unit representations. `1 week ago`
 - [HsiangHsu/knowledge-removal](https://github.com/HsiangHsu/knowledge-removal) — Machine unlearning and residual-knowledge auditing across classifiers, generative models, tree ensembles, and RL systems. `1 week ago`
 - [HsiangHsu/knowledge-uncertainty](https://github.com/HsiangHsu/knowledge-uncertainty) — Rashomon-effect research on hidden disagreement across equally accurate models, arbitrary decisions, unstable explanations, and circuit-level mechanisms. `1 week ago`
 - [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) — Mechanistic reproduction and ablation of Dynamic SAE Guardrails on WMDP-Cyber, showing dense hot-token clamping drives forgetting while sequence-level gating preserves MMLU utility. `1 week ago`
@@ -34,8 +34,8 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 
 ### 🔨 Recent pull requests
 
-- [polish README.md](https://github.com/HsiangHsu/SAE-Unlearning/pull/2) on [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) `6 days ago`
-- [Dynamic circuit guardrails](https://github.com/HsiangHsu/SAE-Unlearning/pull/1) on [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) `6 days ago`
+- [polish README.md](https://github.com/HsiangHsu/SAE-Unlearning/pull/2) on [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) `1 week ago`
+- [Dynamic circuit guardrails](https://github.com/HsiangHsu/SAE-Unlearning/pull/1) on [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) `1 week ago`
 - [update readme](https://github.com/HsiangHsu/Best-of-Tails/pull/2) on [HsiangHsu/Best-of-Tails](https://github.com/HsiangHsu/Best-of-Tails) `2 weeks ago`
 - [Master](https://github.com/HsiangHsu/Best-of-Tails/pull/1) on [HsiangHsu/Best-of-Tails](https://github.com/HsiangHsu/Best-of-Tails) `2 weeks ago`
 - [I2i](https://github.com/jpmorganchase/i2i_clean-fid/pull/1) on [jpmorganchase/i2i_clean-fid](https://github.com/jpmorganchase/i2i_clean-fid) `2 years ago`
