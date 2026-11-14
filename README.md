@@ -28,8 +28,8 @@ I like building small, concrete research artifacts: clean demos, evaluation tool
 
 - [HsiangHsu/knowledge-removal](https://github.com/HsiangHsu/knowledge-removal) — Machine unlearning and residual-knowledge auditing across classifiers, generative models, tree ensembles, and RL systems. `5 months ago`
 - [HsiangHsu/inference-time-knowledge-steering](https://github.com/HsiangHsu/inference-time-knowledge-steering) — Inference-time alignment and knowledge steering via reward-tail-aware selection, SAE control, and future memory-unit representations. `5 months ago`
-- [HsiangHsu/knowledge-uncertainty](https://github.com/HsiangHsu/knowledge-uncertainty) — Rashomon-effect research on hidden disagreement across equally accurate models, arbitrary decisions, unstable explanations, and circuit-level mechanisms. `5 months ago`
-- [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) — Mechanistic reproduction and ablation of Dynamic SAE Guardrails on WMDP-Cyber, showing dense hot-token clamping drives forgetting while sequence-level gating preserves MMLU utility. `5 months ago`
+- [HsiangHsu/knowledge-uncertainty](https://github.com/HsiangHsu/knowledge-uncertainty) — Rashomon-effect research on hidden disagreement across equally accurate models, arbitrary decisions, unstable explanations, and circuit-level mechanisms. `6 months ago`
+- [HsiangHsu/SAE-Unlearning](https://github.com/HsiangHsu/SAE-Unlearning) — Mechanistic reproduction and ablation of Dynamic SAE Guardrails on WMDP-Cyber, showing dense hot-token clamping drives forgetting while sequence-level gating preserves MMLU utility. `6 months ago`
 - [HsiangHsu/Best-of-Tails](https://github.com/HsiangHsu/Best-of-Tails) — Reward-tail-aware inference-time alignment that bridges optimistic Best-of-N and pessimistic selection to reduce reward hacking. `6 months ago`
 
 ### 🔨 Recent pull requests
